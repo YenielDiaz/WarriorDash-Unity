@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40c02150443fda489ece909b70d9418, type: 3}
+  m_Name: ZZR Light
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4673835777847100976, guid: ef81387405a463e4ca79b6180e74bb2e,
+    type: 3}
+  pathPrefab: {fileID: 5071978562714353305, guid: 35dacf76f0088b34d828bdcfeef803b3,
+    type: 3}
+  timeBetweenSpawns: 0.5
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 3
+  moveSpeed: 5

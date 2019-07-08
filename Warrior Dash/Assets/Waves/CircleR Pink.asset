@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40c02150443fda489ece909b70d9418, type: 3}
+  m_Name: CircleR Pink
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 4673835777847100976, guid: 7415cd032c24ebe4db3737c70b59839a,
+    type: 3}
+  pathPrefab: {fileID: 4264035929414826105, guid: 4c9a290dcfebcf44781a3063a40eab3a,
+    type: 3}
+  timeBetweenSpawns: 0.5
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 3
+  moveSpeed: 5
